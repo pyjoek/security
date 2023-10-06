@@ -1,4 +1,4 @@
-import subprocess
+import subprocess as sp
 import optparse
 
 parser = optparse.OptionParser()
